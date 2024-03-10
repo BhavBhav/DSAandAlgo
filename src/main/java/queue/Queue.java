@@ -9,7 +9,9 @@ public class Queue {
         first = node;
         last = node;
         length = 1;
+
     }
+
     class Node {
         int value;
         Node next;
